@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Switch, Route } from 'react-router-dom'
+import First from './components/newhomepage';
+import Aboutus from './components/aboutustwo';
+import Team from './components/team';
+import Insurance from './components/insurance';
+import Contactus from './components/contactustwo';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+const App = () => {
+return (
+  <Switch>
+    <Route exact path='/'>
+    <First />
+    </Route>
+    <Route exact path='/aboutus'>
+    <Aboutus />
+    </Route>
+    <Route exact path='/projects'>
+    <Team />
+    </Route>
+   
+    <Route exact path='/contactus'>
+    <Contactus />
+    </Route> 
+    <Route path='/projects/:projectId'  render={(props) => {
+          return ( <Insurance {...props } /> )
+        }} />
+</Switch>
+)
 }
 
-export default App;
+export default App
