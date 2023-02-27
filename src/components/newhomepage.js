@@ -451,7 +451,7 @@ useEffect(() => {
                     
                    {Array.isArray(clients) && clients?.map((client, index) => {
                        return (
-                        <div class={`col-10 col-md-3 col-sm-2 ${![3, 7].includes(index)  && 'border-right'} ${index <= 3 && 'border-bottom'} border-color-medium-gray text-center xs-no-border-right wow animate__fadeIn`} data-wow-delay="0.1s">
+                        <div class={`col-10 col-md-3 col-sm-2 ${(index + 1) % 4 !== 0  && 'border-right'} ${index < (clients?.length - 4) && 'border-bottom'} border-color-medium-gray text-center xs-no-border-right wow animate__fadeIn`} data-wow-delay="0.1s">
                         <div class="client-box padding-4-rem-tb lg-padding-3-rem-tb xs-padding-4-rem-tb">
                             <a href="#"><img src={client?.fields?.photos[0]?.fields?.file?.url} alt={client?.fields?.photos[0]?.fields?.description}/></a>
                         </div>
