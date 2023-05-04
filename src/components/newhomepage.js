@@ -30,24 +30,24 @@ useEffect(() => {
 <section class="p-0 example home-startup bg-dark-slate-blue">
             <article class="content">
                 <div id="rev_slider_26_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="mask-showcase" data-source="gallery">
-             
+
                     <div id="rev_slider_26_1" class="rev_slider fullscreenbanner" style={{display:"none"}} data-version="5.4.1">
-                        <ul> 
-                          
+                        <ul>
+
                             <li data-index="rs-73" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://works.themepunch.com/revolution_5_3/wp-content/"  data-rotate="0"  data-saveperformance="off"  data-title="01" data-param1="01" data-description="">
-                      
+
                                 <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1652356414/Home_Banner-01.jpg" alt="" data-bgcolor="#262b32" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina/>
 
-                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div> 
+                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div>
 
-                             
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-600 text-center"
                                      id="slide-411-layer-01"
                                      data-frames='[{"delay":200,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
                                      data-whitespace="nowrap"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['70','53','60','35']"
@@ -59,28 +59,28 @@ useEffect(() => {
                                      data-paddingbottom="['15','8','8','8']"
                                      data-paddingright="['0','0','0','0']"
                                      data-paddingleft="['0','0','0','0']"
-                                     style={{textShadow: "0 0 20px rgba(0,0,0,0.3)"}}>Delivering creative  
+                                     style={{textShadow: "0 0 20px rgba(0,0,0,0.3)"}}>Delivering creative
                                      <br/>digital marketing</div>
 
-                          
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-300 text-center"
-                                     id="slide-411-layer-02" 
+                                     id="slide-411-layer-02"
                                      data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['19','16','19','14']"
                                      data-lineheight="['28','14','23','20']"
                                      data-letterspacing="['0.5','0.5','0.5','0.5']"
                                      data-responsive="off"
-                                     data-responsive_offset="on">Making your business brand stand out</div> 
+                                     data-responsive_offset="on">Making your business brand stand out</div>
 
-                       
+
                                 <a style={{ color: "#fff", fontSize: 15, border: 0, borderWidth: 0}} class="tp-caption bg-gradient-sky-blue-pink tp-resizeme rs-btn btn btn-rounded d-flex align-items-center justify-content-center"
                                    href="/aboutus"
-                                   id="slide-411-layer-03" 
+                                   id="slide-411-layer-03"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['152','130','82','80']"
                                    data-whitespace="nowrap"
@@ -93,27 +93,27 @@ useEffect(() => {
                                    data-paddingbottom="['8','8','8','8']"
                                    data-paddingright="['7','7','7','7']"
                                    data-paddingleft="['34','34','34','34']"
-                                   >Get started now 
+                                   >Get started now
                                     <div style={{display: "flex", justifyContent: "center", alignItems: "center", width: 38, height: 38, borderRadius: "50%", background: "#007C3E", marginLeft: 19}}>
                                         <i class="fas fa-play" style={{color: "#fff", fontSize: 12, lineHeight: 15, marginTop: 2, marginLeft: 3}}></i>
                                     </div>
-                                </a>         
+                                </a>
                             </li>
-                     
+
                             <li data-index="rs-74" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://works.themepunch.com/revolution_5_3/wp-content/"  data-rotate="0"  data-saveperformance="off"  data-title="02" data-param1="02" data-description="">
-                         
+
                                 <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1652356415/Home_Banner-02.jpg" alt="" data-bgcolor="#262b32" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina/>
 
-                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div> 
+                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div>
 
-                          
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-600 text-center"
-                                     id="slide-411-layer-04" 
+                                     id="slide-411-layer-04"
                                      data-frames='[{"delay":200,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
                                      data-whitespace="nowrap"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['70','53','60','35']"
@@ -127,25 +127,25 @@ useEffect(() => {
                                      data-paddingleft="['0','0','0','0']"
                                      style={{textShadow: "0 0 20px rgba(0,0,0,0.3)"}}>Drive your sales<br/> with us today</div>
 
-                        
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-300 text-center"
-                                     id="slide-411-layer-05" 
+                                     id="slide-411-layer-05"
                                      data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['19','13','19','14']"
                                      data-lineheight="['28','14','23','20']"
                                      data-letterspacing="['0.5','0.5','0.5','0.5']"
                                      data-responsive="off"
-                                     data-responsive_offset="on">Reach more customers with our digital strategy</div> 
+                                     data-responsive_offset="on">Reach more customers with our digital strategy</div>
 
-                   
+
                                 <a style={{ color: "#fff", fontSize: 15, border: 0, borderWidth: 0}} class="tp-caption bg-gradient-sky-blue-pink tp-resizeme rs-btn btn btn-rounded d-flex align-items-center justify-content-center"
                                    href="/aboutus"
-                                   id="slide-411-layer-06" 
+                                   id="slide-411-layer-06"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['152','130','82','80']"
                                    data-whitespace="nowrap"
@@ -158,27 +158,27 @@ useEffect(() => {
                                    data-paddingbottom="['8','8','8','8']"
                                    data-paddingright="['7','7','7','7']"
                                    data-paddingleft="['34','34','34','34']"
-                                   >Get started now 
+                                   >Get started now
                                     <div style={{display: "flex", justifyContent: "center", alignItems: "center", width: 38, height: 38, borderRadius: "50%", background: "#007C3E", marginLeft: 19}}>
                                         <i class="fas fa-play" style={{color: "#fff", fontSize: 12, lineHeight: 15, marginTop: 2, marginLeft: 3}}></i>
                                     </div>
-                                </a>       
+                                </a>
                             </li>
-                     
+
                             <li data-index="rs-75" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://works.themepunch.com/revolution_5_3/wp-content/"  data-rotate="0"  data-saveperformance="off"  data-title="03" data-param1="03" data-description="">
-                
+
                                 <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1652356415/Home_Banner-03.jpg" alt="" data-bgcolor="#262b32" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina/>
 
-                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div> 
+                                <div class="overlay-bg bg-extra-dark-gray" style={{opacity: 0.5}}></div>
 
-                          
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-600 text-center"
-                                     id="slide-411-layer-07" 
+                                     id="slide-411-layer-07"
                                      data-frames='[{"delay":200,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
                                      data-whitespace="nowrap"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['-50','-50','-115','-65']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['70','53','60','35']"
@@ -190,28 +190,28 @@ useEffect(() => {
                                      data-paddingbottom="['15','8','8','8']"
                                      data-paddingright="['0','0','0','0']"
                                      data-paddingleft="['0','0','0','0']"
-                                     style={{textShadow: "0 0 20px rgba(0,0,0,0.3)"}}>Manage your social  
+                                     style={{textShadow: "0 0 20px rgba(0,0,0,0.3)"}}>Manage your social
                                      <br/>media with us</div>
 
-                   
+
                                 <div class="tp-caption tp-resizeme alt-font text-white font-weight-300 text-center"
-                                     id="slide-411-layer-08" 
+                                     id="slide-411-layer-08"
                                      data-frames='[{"delay":1200,"speed":1000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[-100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
                                      data-type="text"
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']" 
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['65','100','-5','15']"
                                      data-width="auto"
                                      data-height="auto"
                                      data-fontsize="['19','13','19','14']"
                                      data-lineheight="['28','14','23','20']"
                                      data-letterspacing="['0.5','0.5','0.5','0.5']"
                                      data-responsive="off"
-                                     data-responsive_offset="on">Build a strong online profile with our strategy</div> 
+                                     data-responsive_offset="on">Build a strong online profile with our strategy</div>
 
-                 
+
                                 <a style={{ color: "#fff", fontSize: 15, border: 0, borderWidth: 0}} class="tp-caption bg-gradient-sky-blue-pink tp-resizeme rs-btn btn btn-rounded d-flex align-items-center justify-content-center"
                                    href="/aboutus"
-                                   id="slide-411-layer-09" 
+                                   id="slide-411-layer-09"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['152','130','82','80']"
                                    data-whitespace="nowrap"
@@ -224,13 +224,13 @@ useEffect(() => {
                                    data-paddingbottom="['8','8','8','8']"
                                    data-paddingright="['7','7','7','7']"
                                    data-paddingleft="['34','34','34','34']"
-                                   >Get started now 
+                                   >Get started now
                                     <div style={{display: "flex", justifyContent: "center", alignItems: "center", width: 38, height: 38, borderRadius: "50%", background: "#007C3E", marginLeft: 19}}>
                                         <i class="fas fa-play" style={{color: "#fff", fontSize: 12, lineHeight: 15, marginTop: 2, marginLeft: 3}}></i>
                                     </div>
                                 </a>
                             </li>
-            
+
                         </ul>
                     </div>
                 </div>
@@ -242,7 +242,7 @@ useEffect(() => {
                     <div class="col-12 overlap-section md-no-margin-top md-margin-70px-bottom sm-margin-50px-bottom">
                         <div class="row justify-content-center">
                             <div class="col-12 col-lg-4 col-md-6 col-sm-8 md-margin-30px-bottom xs-margin-15px-bottom">
-                            
+
                                 <div class="feature-box h-100 feature-box-left-icon-middle padding-3-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-4px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-tb lg-padding-2-rem-lr md-padding-4-rem-all">
                                     <div class="feature-box-icon margin-30px-right lg-margin-25px-right">
                                         <i class="line-icon-Cursor-Click2 icon-medium text-green"></i>
@@ -252,10 +252,10 @@ useEffect(() => {
                                         <span>Strategy</span>
                                     </div>
                                 </div>
-             
+
                             </div>
                             <div class="col-12 col-lg-4 col-md-6 col-sm-8 md-margin-30px-bottom xs-margin-15px-bottom">
-                          
+
                                 <div class="feature-box h-100 feature-box-left-icon-middle padding-3-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-4px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-tb lg-padding-2-rem-lr md-padding-4-rem-all">
                                     <div class="feature-box-icon margin-30px-right lg-margin-25px-right">
                                         <i class="line-icon-Bakelite icon-medium text-green"></i>
@@ -265,10 +265,10 @@ useEffect(() => {
                                         <span>Strategy</span>
                                     </div>
                                 </div>
-                             
+
                             </div>
                             <div class="col-12 col-lg-4 col-md-6 col-sm-8">
-                     
+
                                 <div class="feature-box h-100 feature-box-left-icon-middle padding-3-rem-all bg-white box-shadow-small box-shadow-large-hover border-radius-4px overflow-hidden last-paragraph-no-margin lg-padding-2-half-rem-tb lg-padding-2-rem-lr md-padding-4-rem-all">
                                     <div class="feature-box-icon margin-30px-right lg-margin-25px-right">
                                         <i class="line-icon-Boy icon-medium text-green"></i>
@@ -278,7 +278,7 @@ useEffect(() => {
                                         <span>Strategy</span>
                                     </div>
                                 </div>
-                           
+
                             </div>
                         </div>
                     </div>
@@ -306,7 +306,7 @@ useEffect(() => {
                     </div>
                     <div class="col-12 col-xl-4 col-lg-5 offset-lg-1 col-md-7">
                         <h4 class="alt-font font-weight-600 text-extra-dark-gray margin-4-half-rem-bottom letter-spacing-minus-1px text-center text-lg-start wow animate__fadeInRight" data-wow-delay="0.2s">We make your brand stand out!</h4>
-                     
+
                         <div class="feature-box feature-box-left-icon-middle margin-4-half-rem-bottom wow animate__fadeInRight" data-wow-delay="0.3s">
                             <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
                                 <i class="line-icon-Cursor-Click2 icon-very-medium"></i>
@@ -317,7 +317,7 @@ useEffect(() => {
                                 <p>Stand out in the market with our digital marketing strategy</p>
                             </div>
                         </div>
-                      
+
                         <div class="feature-box feature-box-left-icon-middle margin-4-half-rem-bottom wow animate__fadeInRight" data-wow-delay="0.4s">
                             <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
                                 <i class="line-icon-Sand-watch2 icon-very-medium"></i>
@@ -328,7 +328,7 @@ useEffect(() => {
                                 <p>Get the best contents design for your brand marketing</p>
                             </div>
                         </div>
-                   
+
                         <div class="feature-box feature-box-left-icon-middle wow animate__fadeInRight" data-wow-delay="0.5s">
                             <div class="feature-box-icon feature-box-icon-rounded dark bg-white w-85px h-85px rounded-circle box-shadow-small margin-40px-right">
                                 <i class="line-icon-Idea-5 icon-very-medium"></i>
@@ -339,7 +339,7 @@ useEffect(() => {
                                 <p>Let us assist you in your business branding design needs</p>
                             </div>
                         </div>
-     
+
                     </div>
                 </div>
                 <div class="row">
@@ -349,7 +349,7 @@ useEffect(() => {
                     <div class="col-12 margin-6-rem-top md-margin-6-rem-top">
                         <div class="outside-box-right">
                             <div class="swiper-container white-move" data-slider-options='{"loop": true, "slidesPerView": 1, "spaceBetween": 30, "autoplay": { "delay": 3000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "992": { "slidesPerView": 3 }, "768": { "slidesPerView": 2 } } }'>
-                                <div class="swiper-wrapper">      
+                                <div class="swiper-wrapper">
                                     <div class="swiper-slide interactive-banners-style-07">
                                         <div class="interactive-banners-box bg-dark-slate-blue border-radius-6px">
                                             <div class="interactive-banners-box-image">
@@ -363,7 +363,7 @@ useEffect(() => {
                                             </div>
                                         </div>
                                     </div>
-                               
+
                                     <div class="swiper-slide interactive-banners-style-07">
                                         <div class="interactive-banners-box bg-dark-slate-blue border-radius-6px">
                                             <div class="interactive-banners-box-image">
@@ -377,7 +377,7 @@ useEffect(() => {
                                             </div>
                                         </div>
                                     </div>
-                                 
+
                                     <div class="swiper-slide interactive-banners-style-07">
                                         <div class="interactive-banners-box bg-dark-slate-blue border-radius-6px">
                                             <div class="interactive-banners-box-image">
@@ -391,7 +391,7 @@ useEffect(() => {
                                             </div>
                                         </div>
                                     </div>
-                            
+
                                     <div class="swiper-slide interactive-banners-style-07">
                                         <div class="interactive-banners-box bg-dark-slate-blue border-radius-6px">
                                             <div class="interactive-banners-box-image">
@@ -434,7 +434,7 @@ useEffect(() => {
                         <span class="alt-font font-weight-500 text-extra-medium text-uppercase letter-spacing-minus-1-half d-block margin-25px-bottom text-white">DIGITAL MARKETING STRATEGY</span>
                         <h4 class="alt-font font-weight-600 text-white letter-spacing-minus-1px w-65 margin-2-half-rem-bottom xl-w-100">Thinking Social media management? Think us!</h4>
                         <p class="w-60 xl-w-100 text-white">We provide a combined creative and sophisticated Digital Marketing Strategy in Social media management for corporate needs with the Goal to Maximize Company Sales, Launch New Products or Service Promotion, Seasoned Campaigns and More.</p>
-                       
+
                     </div>
                 </div>
             </div>
@@ -448,17 +448,17 @@ useEffect(() => {
                     </div>
                 </div>
                 <div class="row client-logo-style-06 justify-content-center">
-                    
+
                    {Array.isArray(clients) && clients?.map((client, index) => {
                        return (
                         <div class={`col-10 col-md-3 col-sm-2 ${(index + 1) % 4 !== 0  && 'border-right'} ${index < (clients?.length - 4) && 'border-bottom'} border-color-medium-gray text-center xs-no-border-right wow animate__fadeIn`} data-wow-delay="0.1s">
                         <div class="client-box padding-4-rem-tb lg-padding-3-rem-tb xs-padding-4-rem-tb">
                             <a href="#"><img src={client?.fields?.photos[0]?.fields?.file?.url} alt={client?.fields?.photos[0]?.fields?.description}/></a>
                         </div>
-                    </div>     
+                    </div>
                        )
-                   })}    
-                    
+                   })}
+
                 </div>
             </div>
         </section>
@@ -483,14 +483,14 @@ useEffect(() => {
                     </div>
                     <div class="col-12 col-xl-7 offset-xl-1 col-lg-8 wow animate__fadeInRight" data-wow-delay="0.4s">
                         <div class="swiper-simple-arrow-style-1">
-                            <div class="swiper-container black-move" data-slider-options='{ "loop": true, "slidesPerView": 1, "spaceBetween": 0, "observer": true, "observeParents": true, "keyboard": { "enabled": true, "onlyInViewport": true }, "autoplay": { "delay": 3000, "disableOnInteraction": false }, "effect": "slide" }'>
+                            <div class="swiper-container black-move" data-slider-options={JSON.stringify({ loop: true, slidesPerView: 1, spaceBetween: 30,spaceBetween: 0, observer: true, observeParents: true, keyboard: { enabled: true, onlyInViewport: true }, autoplay: { delay: 3000, disableOnInteraction: false }})}>
                                 <div class="swiper-wrapper">
                                 {Array.isArray(testimonials) && testimonials?.map((testimonial) => {
                        return (
                                     <div class="swiper-slide text-center">
                                         <div class="feature-box feature-box-left-icon-middle">
                                             <div class="feature-box-icon margin-50px-right xs-margin-15px-right">
-                                                <img class="rounded-circle w-180px h-180px sm-w-150px sm-h-150px xs-w-80px xs-h-80px" src={testimonial?.fields?.clientphoto?.fields?.file?.url} alt=""/>
+                                                <img class="rounded-circle w-180px h-180px sm-w-150px sm-h-150px xs-w-80px xs-h-80px" src={testimonial?.fields?.clientphoto?.fields?.file?.url} alt="testimonial"/>
                                             </div>
                                             <div class="feature-box-content">
                                                 <p class="w-85 lg-w-100">{testimonial?.fields?.description}</p>
@@ -500,7 +500,7 @@ useEffect(() => {
                                         </div>
                                     </div>
                        )})}
-                                </div> 
+                                </div>
                             </div>
                         </div>
                     </div>

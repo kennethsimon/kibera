@@ -132,6 +132,7 @@ isiPhoneiPad = true;
 }()); /* END OF WRAPPING FUNCTION */
     setupSwiper();
     destroySwiperLoop()
+    resetSwiperLoop();
   }, []);
 
 
@@ -325,7 +326,7 @@ function setupSwiper() {
                                             }
                                         }
                                     };
-            }                
+            }
 
             /* If user have provided "data-thumbs" attribute then below code will execute */
             var dataThumbs = _this.attr( 'data-thumbs' );
@@ -629,22 +630,22 @@ function resetSwiperLoop() {
                     <div class="col-lg-12">
                         <div class="row g-0 align-items-center justify-content-center h-100 padding-7-rem-all xs-padding-3-rem-all">
                             <div class="col-12 menu-list-wrapper menu-list-wrapper-small text-center text-md-start" data-scroll-options='{ "theme": "light" }'>
-                             
+
                                 <ul class="menu-list alt-font w-100">
-                                   
+
                                     <li class="menu-list-item"><a href="/">Home</a>
                                     </li>
-      
+
                                     <li class="menu-list-item"><a href="/aboutus">About</a></li>
 
-                                   
+
                                     <li class="menu-list-item"><a href="/projects">Projects</a></li>
 
-                                   
+
                                     <li class="menu-list-item"><a href="/contactus">Contact Us</a></li>
 
                                 </ul>
-                                
+
                             </div>
                             <div class="col-12 d-none d-md-block">
                                 <div class="alt-font margin-50px-top">

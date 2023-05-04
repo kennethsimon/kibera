@@ -11,10 +11,9 @@ import {useTeams} from '../useContentful';
 function Aboutus() {
     const [teams, setTeams] = useState([]);
     const {getTeams} = useTeams();
-    
+
     useEffect(() => {
         getTeams().then((response) => {
-            console.log(response?.items);
             setTeams(response?.items);
         })
     })
@@ -42,14 +41,14 @@ function Aboutus() {
                             <div class="col-12 col-md-12 z-index-0">
                                 <span class="text-overlap text-uppercase title-extra-large-heavy alt-font text-center d-none d-md-block font-weight-700 opacity-1 z-index-minus-1">WHAT WE DO</span>
                                 <div class="tilt-box" data-tilt-options='{ "maxTilt": 20, "perspective": 1000, "easing": "cubic-bezier(.03,.98,.52,.99)", "scale": 1, "speed": 500, "transition": true, "reset": true, "glare": false, "maxGlare": 1 }'>
-                                    <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1652356402/We-are-Corporate-Creative.jpg" class="position-relative z-index-6 border-radius-6px" alt=""/>
+                                    <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1683194865/Clients_Served.png" class="position-relative z-index-6 border-radius-6px" alt=""/>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-              
+
                     <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 sm-margin-6-rem-bottom wow animate__fadeIn">
                         <div class="process-step-item">
                             <span class="process-step-item-bfr bg-white"></span>
@@ -62,11 +61,11 @@ function Aboutus() {
                                 <div class="process-content last-paragraph-no-margin">
                                     <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Digital Marketing Strategy</span>
                                     <p class="text-white opacity-7">We provide sophisticated Social Media management solutions for corporate needs with the Goal to maximize company sales</p>
-                                </div>                        
+                                </div>
                             </div>
                         </div>
                     </div>
-     
+
                     <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 sm-margin-6-rem-bottom wow animate__fadeIn" data-wow-delay="0.2s">
                         <div class="process-step-item">
                             <span class="process-step-item-bfr bg-white"></span>
@@ -79,11 +78,11 @@ function Aboutus() {
                                 <div class="process-content last-paragraph-no-margin">
                                     <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Digital Presence Strategy</span>
                                     <p class="text-white opacity-7">We will enable your Company with not only the online presence, but provide your company the world class online outlook</p>
-                                </div>                        
+                                </div>
                             </div>
                         </div>
                     </div>
-     
+
                     <div class="col-12 col-md-4 col-sm-8 text-center process-step-style-04 wow animate__fadeIn" data-wow-delay="0.4s">
                         <div class="process-step-item">
                             <span class="process-step-item-bfr bg-white"></span>
@@ -96,11 +95,11 @@ function Aboutus() {
                                 <div class="process-content last-paragraph-no-margin">
                                     <span class="alt-font d-block font-weight-500 text-white margin-10px-bottom">Branding & Design Strategy</span>
                                     <p class="text-white opacity-7">Stand out in the market with our best branding design strategy for all your business marketing tools design and printing</p>
-                                </div>                        
+                                </div>
                             </div>
                         </div>
                     </div>
-         
+
                 </div>
             </div>
         </section>
@@ -113,7 +112,7 @@ function Aboutus() {
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                  
+
                     <div class="col-12 col-lg-6 col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom">
                         <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
                             <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
@@ -125,7 +124,7 @@ function Aboutus() {
                             </div>
                         </div>
                     </div>
-                  
+
                     <div class="col-12 col-lg-6  col-md-8 col-sm-10 margin-30px-bottom xs-margin-15px-bottom">
                         <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
                             <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
@@ -137,7 +136,7 @@ function Aboutus() {
                             </div>
                         </div>
                     </div>
-             
+
                     <div class="col-12 col-lg-6  col-md-8 col-sm-10 md-margin-30px-bottom xs-margin-15px-bottom">
                         <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
                             <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
@@ -149,7 +148,7 @@ function Aboutus() {
                             </div>
                         </div>
                     </div>
-      
+
                     <div class="col-12 col-lg-6  col-md-8 col-sm-10">
                         <div class="feature-box feature-box-left-icon-middle padding-3-half-rem-all bg-white box-shadow-small box-shadow-extra-large-hover border-radius-6px lg-padding-1-half-rem-lr xs-padding-2-rem-all">
                             <div class="feature-box-icon margin-40px-lr lg-margin-35px-lr xs-margin-20px-right xs-no-margin-left">
@@ -161,7 +160,7 @@ function Aboutus() {
                             </div>
                         </div>
                     </div>
-    
+
                 </div>
             </div>
         </section>
@@ -182,7 +181,7 @@ function Aboutus() {
                     </div>
                     <div class="col-12 col-lg-5 offset-lg-1 wow animate__fadeIn text-center text-sm-start" data-wow-delay="0.4s">
                         <div class="alt-font text-extra-medium font-weight-500 margin-30px-bottom d-flex"><span class="flex-shrink-0 w-50px h-1px bg-white opacity-7 align-self-center margin-20px-right"></span><div class="flex-grow-1"><span class="text-white">Looking for digital marketing agency?</span></div></div>
-                        <h5 class="alt-font text-white font-weight-500 margin-30px-bottom">We design world class digital contents and experience for your brand growth</h5>                        
+                        <h5 class="alt-font text-white font-weight-500 margin-30px-bottom">We design world class digital contents and experience for your brand growth</h5>
                         <p class="w-95 text-white">Our aspiration is to help Brands stand out in the local and global markets, by equipping their Businesses with sophisticated solutions in Digital Marketing Strategy which Drive Company sales.</p>
                         <div class="btn-dual margin-15px-top d-inline-block"><a href="our-services.html" class="btn btn-medium btn-dark-gray btn-slide-right-bg">Download Profile<span class="bg-white"></span></a><a href="what-we-offers.html" class="btn btn-medium btn-transparent-dark-gray btn-slide-right-bg">View Our Work<span class="bg-extra-dark-gray"></span></a></div>
                     </div>
