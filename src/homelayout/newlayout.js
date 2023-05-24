@@ -1967,7 +1967,7 @@ useEffect(() => {
                     <div class="col-lg-12">
                         <div class="copyright-footer-two">
                             <p class="disc">
-                                © 2023 Elevate. All images are for demo purposes.
+                                {/* © 2023 Elevate. All images are for demo purposes. */}
                             </p>
                         </div>
                     </div>
