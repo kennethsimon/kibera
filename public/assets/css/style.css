@@ -19138,11 +19138,11 @@ edit .quantity-edit button {
   }
 }
 .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--1 {
-  background: url(../images/bg/bg-image-7.jpg);
+  background: url("https://res.cloudinary.com/dedfrilse/image/upload/v1688185875/kibera/kibera10.jpg");
   background-size: cover;
 }
 .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--2 {
-  background: url(../images/bg/bg-image-8.jpg);
+  background: url("https://res.cloudinary.com/dedfrilse/image/upload/v1688185874/kibera/kibera12.jpg");
   background-size: cover;
 }
 .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one .banner-one-wrapper .b_one-pre {

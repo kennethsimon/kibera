@@ -155,7 +155,7 @@ const Home = () => {
                
                     <div class="rts-single-project-one">
                         <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/project/38.jpg" alt="project"/>
+                            <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1688185874/kibera/kibera11.jpg" alt="project"/>
                             <span class="icon"><img src="assets/images/service/icon/17.svg" alt="icon"/></span>
                         </a>
                         <div class="project-inner">
@@ -174,7 +174,7 @@ const Home = () => {
                  
                     <div class="rts-single-project-one">
                         <a href="service-details.html" class="thumbnail two">
-                            <img src="assets/images/project/39.jpg" alt="project"/>
+                            <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1688185876/kibera/kibera2.jpg" alt="project"/>
                             <span class="icon"><img src="assets/images/service/icon/18.svg" alt="icon"/></span>
                         </a>
                         <div class="project-inner">
@@ -193,7 +193,7 @@ const Home = () => {
                  
                     <div class="rts-single-project-one">
                         <a href="service-details.html" class="thumbnail three">
-                            <img src="assets/images/project/40.jpg" alt="project"/>
+                            <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1688185875/kibera/kibera1.jpg" alt="project"/>
                             <span class="icon"><img src="assets/images/service/icon/19.svg" alt="icon"/></span>
                         </a>
                         <div class="project-inner">
@@ -221,9 +221,9 @@ const Home = () => {
                 <div class="col-lg-6 pr--80 pr_md--0 pr_sm--0">
                  
                     <div class="thumbnail appoinment-m-thumb">
-                        <img src="assets/images/appoinment/02.jpg" alt="appoinment-area"/>
+                        <img src="https://res.cloudinary.com/dedfrilse/image/upload/v1688185875/kibera/kibera5.jpg" alt="appoinment-area"/>
                         <div class="inner-wrapper">
-                            <img src="assets/images/appoinment/02-sm.png" alt="appoinment-area"/>
+                            <img src="https://res.cloudinary.com/dedfrilse/image/upload/c_scale,h_200,w_278/v1688185874/kibera/kibera12.jpg" alt="appoinment-area"/>
                         </div>
                     </div>
                  
@@ -512,10 +512,10 @@ const Home = () => {
                     <div class="thumbanil">
                         <div class="shape"><img src="assets/images/kiberalogo.png" alt=""/></div>
                         <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6"><img class="top" src="assets/images/faq-area/faq-2.jpg" alt="man"/></div>
-                            <div class="col-lg-6 col-md-6 col-sm-6"><img class="top" src="assets/images/faq-area/faq-3.jpg" alt="man"/></div>
+                            <div class="col-lg-6 col-md-6 col-sm-6"><img class="top" src="https://res.cloudinary.com/dedfrilse/image/upload/c_fill,h_264,w_312/v1688185875/kibera/kibera1.jpg" alt="man"/></div>
+                            <div class="col-lg-6 col-md-6 col-sm-6"><img class="top" src="https://res.cloudinary.com/dedfrilse/image/upload/c_scale,h_264,w_219/v1688185875/kibera/kibera6.jpg" alt="man"/></div>
                             <div class="col-lg-12 col-md-12 col-sm-12">
-                                <img class="bottom" src="assets/images/faq-area/faq-1.jpg" alt="man"/>
+                                <img class="bottom" src="https://res.cloudinary.com/dedfrilse/image/upload/c_fill,h_465,w_564/v1688185874/kibera/kibera8.jpg" alt="man"/>
                             </div>
                         </div>
                     </div>
